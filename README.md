@@ -13,7 +13,7 @@ Un jeu Tower Defense original réalisé en js avec la librairie pixijs où tu d�
 - Système de jeu dynamique et interactif
 - Score final enregistré dans un leaderboard en ligne
 
-🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/ratfender)
+🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/hackaton_ratfender)
 *bientôt en ligne !*
 
 ---
@@ -39,7 +39,7 @@ Une API REST complète construite avec Node.js, Express, SQLite et Sequelize per
 - Système de restauration des entités supprimées
 - Architecture MVC propre et modulaire
 
-🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/api-heroes)
+🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/FBH)
 
 ---
 
@@ -51,7 +51,7 @@ Un site web dédié à la publication d’annonces de chats perdus ou retrouvés
 - Formulaire simple d’ajout
 - En cours de développement
 
-🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/catfinder)
+🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/CatFinder)
 *bientôt en ligne !*
 
 
@@ -67,7 +67,7 @@ Un gestionnaire financier personnel pour suivre ses dépenses, dettes et cartes 
 - Graphique d’activité sur 7 jours
 - Calculatrice intégrée
 🔗 [Voir en ligne](https://accuratemoney.netlify.app)\
-🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/accurate-money)
+🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/AccurateMoney)
 
 ---
 
@@ -80,7 +80,7 @@ Mon premier projet avec **Three.js** ! Un mini-jeu délirant dans lequel on doit
 💬 Sons cartoon et ambiance fun
 
 🔗 [Tester en ligne](https://tirauxkirby.vercel.app)\
-🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/tirauxkirby)
+🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/TirAuxKirby)
 
 ---
 
@@ -98,7 +98,7 @@ Mon tout premier projet en **JavaScript** (avec un peu de HTML/CSS). Un jeu rét
 🔊 Tous les sons sont faits maison (avec la bouche !)
 
 🔗 [Tester en ligne](https://tirauxloan.netlify.app)\
-🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/tirauxloan)
+🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/TirAuxLoan)
 
 ---
 
