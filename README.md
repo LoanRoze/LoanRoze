@@ -66,6 +66,7 @@ Un gestionnaire financier personnel pour suivre ses dépenses, dettes et cartes 
 - Historique des transactions
 - Graphique d’activité sur 7 jours
 - Calculatrice intégrée
+
 🔗 [Voir en ligne](https://accuratemoney.netlify.app)\
 🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/AccurateMoney)
 
