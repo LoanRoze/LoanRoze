@@ -4,6 +4,20 @@ Bienvenue sur ce dépôt qui regroupe une sélection de mes projets personnels e
 
 ---
 
+## 📑 Sommaire
+
+- [RatFender](#-ratfender---tower-defense)
+- [DreamCatcher](#-dreamcatcher---journal-de-rêves)
+- [cli2text](#-cli2text)
+- [API de Gestion des Héros](#-api-de-gestion-des-héros)
+- [CatFinder](#-catfinder)
+- [Accurate Money](#-accurate-money)
+- [TirAuxKirby](#-tirauxkirby)
+- [Tir Aux Loan](#-tir-aux-loan)
+- [Collaborations](#-collaborations)
+
+---
+
 ## 🧀 RatFender - Tower Defense
 
 Un jeu Tower Defense original réalisé en js avec la librairie pixijs où tu défends ton territoire à coups de fromages ! Affronte différentes vagues de rats avec des tours personnalisables et grimpe dans le leaderboard.
@@ -14,7 +28,21 @@ Un jeu Tower Defense original réalisé en js avec la librairie pixijs où tu d�
 - Score final enregistré dans un leaderboard en ligne
 
 🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/hackaton_ratfender)
+
 *bientôt en ligne !*
+
+---
+
+## 🌙 DreamCatcher - Journal de Rêves
+
+Une application mobile développée avec **React Native** (Expo) pour enregistrer ses rêves et mieux comprendre son inconscient. Raconte tes rêves dès ton réveil, suis leur fréquence et observe des stats sur ton sommeil imaginaire 😴✨
+
+- Formulaire simple pour noter ses rêves
+- Liste chronologique de tous les rêves saisis
+- Statistiques intégrées : nombre de rêves, fréquence, jours actifs
+- Interface mobile fluide et intuitive
+
+🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/DreamCatcher)\
 
 ---
 
@@ -52,6 +80,7 @@ Un site web dédié à la publication d’annonces de chats perdus ou retrouvés
 - En cours de développement
 
 🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/CatFinder)
+
 *bientôt en ligne !*
 
 
@@ -103,11 +132,12 @@ Mon tout premier projet en **JavaScript** (avec un peu de HTML/CSS). Un jeu rét
 
 ---
 
-## 👥 Collaborations
+## 🤝 Collaborations
 
-- **Loan Roze** (moi)
-- **Ryan Valery** (sur certains projets : TirAuxLoan, Accurate Money, CatFinder, FBH)
-- **Yann Lestage** (sur RatFender)
+Certains projets ont été réalisés en équipe :
+
+- **Tir Aux Loan**, **Accurate Money**, **CatFinder**, **FBH** avec [**Ryan Valery**](https://github.com/RapidoLaFleche)
+- **RatFender** avec [**Yann Lestage**](https://github.com/Faleway1)
 
 ---
 
