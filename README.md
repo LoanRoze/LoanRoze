@@ -42,7 +42,7 @@ Une application mobile développée avec **React Native** (Expo) pour enregistre
 - Statistiques intégrées : nombre de rêves, fréquence, jours actifs
 - Interface mobile fluide et intuitive
 
-🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/DreamCatcher)\
+🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/DreamCatcher)
 
 ---
 
@@ -138,8 +138,6 @@ Certains projets ont été réalisés en équipe :
 
 - **Tir Aux Loan**, **Accurate Money**, **CatFinder**, **FBH** avec [**Ryan Valery**](https://github.com/RapidoLaFleche)
 - **RatFender** avec [**Yann Lestage**](https://github.com/Faleway1)
-
----
 
 Merci d’avoir pris le temps de découvrir mes projets ! Pour en voir davantage, direction mon GitHub 👇
 
