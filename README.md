@@ -27,7 +27,7 @@ Un jeu Tower Defense original réalisé en js avec la librairie pixijs où tu d�
 - Système de jeu dynamique et interactif
 - Score final enregistré dans un leaderboard en ligne
 
-🔗 [Tester en ligne](https://ratfender.netlify.app/)
+🔗 [Tester en ligne](https://ratfender.netlify.app/)\
 🔗 [Voir le projet sur GitHub](https://github.com/LoanRoze/hackaton_ratfender)
 
 *bientôt en ligne !*
